@@ -210,6 +210,10 @@
          "value": "/opt/hybris/bin/platform/tomcat/lib/keystore"
       },
       {
+         "key": "troubleshootingModeEnabled",
+         "value": "false"
+      },
+      {
          "key": "datahubadapter.datahuboutbound.password",
          "value": "nimda"
       }
